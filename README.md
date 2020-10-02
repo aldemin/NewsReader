@@ -19,3 +19,10 @@ The application should contain TabBar menu with screens listed:
 3. Search screen:
 *The search screen should be able to find all the news contains the search words.
 
+**General Notes:**
+*The source code of application should be uploaded on  https://github.com.
+*Keep your code clean;
+*Prefer quality to the speed of delivering the task;
+*UI can be pretty simple but user friendly;
+
+
